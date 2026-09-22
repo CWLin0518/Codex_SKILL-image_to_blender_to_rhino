@@ -1,0 +1,7 @@
+interface:
+  display_name: "商品圖轉 Blender / Rhino"
+  short_description: "依商品圖與尺寸圖建模並交付已驗證的 Rhino 3DM"
+  default_prompt: "Use $product-image-blender-rhino to build a Blender model from these product images and deliver a validated Rhino 3DM file."
+
+policy:
+  allow_implicit_invocation: true
